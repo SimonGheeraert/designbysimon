@@ -1,0 +1,210 @@
+$mobile-small: max-width 500px;
+$breekpunt: 710px;
+$breekpunt-breedte: max-width 710px;
+$breekpunt-twee: max-width 950px;
+$breekpunt-drie: max-width 790px;
+
+@include breakpoint($breekpunt-breedte){
+	header{
+		ul{
+			margin-top: 100px;
+		}
+	}
+	#nav_3{
+		position: absolute;
+		top: 10px;
+		@include squish(4 of 13);
+		@include span(2 of 13);
+	}
+	.nav_li{
+		@include span(4 of 12);
+		@include squish(4 of 12);
+		margin-top: 30px;
+	}
+	.logo{
+		margin-top: 20px;
+	}
+
+	.nav_link{
+		text-align: center;
+		@include span(12 of 12);
+		font-size: 12px;
+		margin-bottom: 15px;
+	}
+
+	.small-icon{
+		display: none;
+		height: 0.1px;
+		color: #F5F5F5;
+	}
+
+	#design_box{
+		@include span(7 of 12);
+		@include post(5 of 12);
+		h1{
+			font-size: 25px;
+		}
+	}
+
+	#code_box{
+		@include span(7 of 12);
+		@include post(5 of 12);
+		h1{
+			font-size: 25px;
+		}
+	}
+
+	.left{
+		h5{
+			font-size: 12px;
+		}
+		@include span(5 of 12);
+	}
+
+	#left_one, #left_two{
+		@include pre(1 of 12);
+	}
+
+	.right{
+		h5{
+			font-size: 12px;
+		}
+	}
+
+	#suit_image{
+		display: none;
+	}
+
+	#image_sketch{
+		display: none;
+	}
+
+	.small_font{
+		a{
+			font-size: 8px;
+		}
+	}
+
+	#text{
+		a{
+			font-size: 10px;
+		}
+	}
+
+	.text_field{
+		font-size: 8px;
+	}
+
+	#message{
+		font-size: 8px;
+	}
+
+	#mister_scroll{
+		display: none;
+	}
+
+	#mister_two{
+		display: none;
+	}
+
+	#hr_one{
+		margin-top: 55px;
+	  @include span(8 of 10);
+	  float: left;
+	  @include pre(1 of 10);
+	  @include post(1 of 10);
+	  border: 0;
+	  height: 1px;
+	  background-image: -webkit-linear-gradient(left, transparent, rgba(0, 0, 0, 0.4), transparent);		
+	}
+
+	#hr_two{
+		display: none;
+	}
+
+	#built_by_box{
+		font-size: 8px;
+	}
+
+	.social_icons{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	#mobile_gallery{
+		display: block;
+		.full{
+			margin-top: 40px;
+			margin-bottom: 20px;
+			@include span(12 of 12);
+			img{
+			min-height:0%;
+			max-width: 100%;				
+			}
+		}
+	}
+
+	#owl-example{
+		display: none;
+	}
+
+	#mobile_alternate {
+		display: block;
+		#intro{
+			margin-top: 60px;
+			@include span(12 of 12);
+			img{
+			min-height:0%;
+			max-width: 100%;				
+			}
+		}
+	}
+
+	#work{
+		display: none;
+	}
+
+	#thanks{
+		h1{
+			font-size: 20px;
+			line-height: 30px;
+		}
+	}
+
+	#about_simon{
+	font-size: 16px;
+	line-height: 24px;
+	#first_paragraph, #second_paragraph, #third_paragraph, #fourth_paragraph{
+	margin-bottom: 15px;
+	#read_more{
+		font-size: 10px;
+	}
+	}	
+	}
+}
+
+@include breakpoint($mobile-small){
+	#about_simon{
+	font-size: 12px;
+	line-height: 18px;
+	#first_paragraph, #second_paragraph, #third_paragraph, #fourth_paragraph{
+	margin-bottom: 10px;
+	#read_more{
+		font-size: 8px;
+	}
+	}	
+	}
+
+}
+
+@include breakpoint($breekpunt-twee){
+	.nav_link{
+		font-size: 12px;
+	}
+}
+
+@include breakpoint($breekpunt-drie){
+	.nav_link{
+		font-size: 10px;
+	}
+}

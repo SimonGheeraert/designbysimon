@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="13px" viewBox="0 0 23 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 15 + Oval 3 + Oval 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rectangle-15-+-Oval-3-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(0.837838, 1.000000)">
+            <path d="M21.9859924,5.66416315 C21.9859111,5.66407789 16.5893895,-1.73063352e-16 11.1040365,0 C5.61864231,1.73064654e-16 0,5.66416315 0,5.66416315 C0,5.66416315 1.8912582e-05,5.66417986 5.66330741e-05,5.66421316 C0.0201896663,5.68449854 5.62849795,11.3283263 11.1040365,11.3283263 C15.84572,11.3283263 20.5210258,7.09594112 21.7016219,5.94828602 C21.88026,5.78681327 21.9838906,5.66660588 21.9859607,5.66419992 C21.9859812,5.66417488 21.9859924,5.66416315 21.9859924,5.66416315 Z" id="Rectangle-15" stroke="#0F172C" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-3" stroke="#0F172C" fill="#0F172C" sketch:type="MSShapeGroup" cx="11.2150769" cy="5.77744641" rx="3.88641279" ry="3.9649142"></ellipse>
+            <ellipse id="Oval-4" fill="#F5F5F5" sketch:type="MSShapeGroup" cx="11.1040365" cy="5.66416315" rx="1.11040365" ry="1.13283263"></ellipse>
+        </g>
+    </g>
+</svg>

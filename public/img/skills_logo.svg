@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="115px" height="115px" viewBox="0 0 115 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 75</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rectangle-75-+-Imported-Layers-4" sketch:type="MSLayerGroup" transform="translate(7.000000, -1.000000)">
+            <path d="M0,38.4197792 C0,35.6632113 1.86880464,32.179142 4.15558718,30.6502646 L45.8444128,2.77830686 C48.1394802,1.24389035 51.8688046,1.24942939 54.1555872,2.77830686 L95.8444128,30.6502646 C98.1394802,32.1846811 100,35.6641559 100,38.4197792 L100,78.5802208 C100,81.3367887 98.1311954,84.820858 95.8444128,86.3497354 L54.1555872,114.221693 C51.8605198,115.75611 48.1311954,115.750571 45.8444128,114.221693 L4.15558718,86.3497354 C1.86051976,84.8153189 0,81.3358441 0,78.5802208 L0,38.4197792 Z" id="Rectangle-75" fill="#0F172C" sketch:type="MSShapeGroup"></path>
+            <path d="M60.1333333,57.0291429 L65.8333333,51.3128571 L50.7539683,51.3128571 L50.7539683,51.3128571 L65.8333333,25.9071429 L39.8666667,51.948 L34.1666667,57.6642857 L50.3104575,57.6642857 L34.1666667,89.4214286 L60.1333333,57.0291429 Z" id="Rectangle-17" stroke="#F5F5F5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

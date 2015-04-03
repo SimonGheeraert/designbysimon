@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="122px" viewBox="0 0 122 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <g id="Oval-39-+-Line" stroke="#0F172C" stroke-width="2" fill="#F5F5F5" sketch:type="MSShapeGroup">
+                <circle id="Oval-39" cx="60" cy="60" r="60"></circle>
+            </g>
+            <g id="Triangle-15-+-Rectangle-214-+-Line" transform="translate(33.814815, 26.666667)" sketch:type="MSShapeGroup">
+                <polygon id="Triangle-15" stroke="#0F172C" stroke-width="2" transform="translate(26.185185, 53.521657) scale(1, -1) translate(-26.185185, -53.521657) " points="26.1851852 42.5988701 48.0853462 64.4444444 4.28502415 64.4444444 "></polygon>
+                <rect id="Rectangle-214" fill="#F5F5F5" x="1" y="27.7608286" width="50.3703704" height="17.4764595"></rect>
+                <path d="M42.1851852,46.3333333 L49.1851852,39.3333333 L53.1851852,44.3333333 L47.1851852,50.3333333 L42.1851852,46.3333333 Z" id="Rectangle-215" fill="#F5F5F5" transform="translate(47.685185, 44.833333) scale(-1, 1) translate(-47.685185, -44.833333) "></path>
+                <path d="M0.185185185,44.3333333 L7.18518519,37.3333333 L11.1851852,42.3333333 L5.18518519,48.3333333 L0.185185185,44.3333333 Z" id="Rectangle-216" fill="#F5F5F5"></path>
+                <path d="M26.1851852,63.6252354 L26.1851852,0" id="Line" stroke="#0F172C" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

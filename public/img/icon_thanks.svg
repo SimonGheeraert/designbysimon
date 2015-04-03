@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="161px" height="160px" viewBox="0 0 161 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 39 + Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Oval-39-+-Group" sketch:type="MSLayerGroup" transform="translate(0.805824, 0.000000)">
+            <circle id="Oval-39" fill="#0F172C" sketch:type="MSShapeGroup" cx="80" cy="80" r="80"></circle>
+            <g id="Group" transform="translate(19.937984, 31.348837)" stroke="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M85.243129,0 L104.186047,85.5813953 L85.243129,47.5452196 L37.8858351,85.5813953 L37.8858351,28.5271318 L0,38.0361757 L85.243129,0 Z" id="Rectangle-30"></path>
+                <path d="M38.1395349,26.9767442 L82.7906977,2.79069767" id="Line" stroke-linecap="square"></path>
+                <path d="M86.5116279,47.4031008 L84.6511628,2.82945736" id="Line" stroke-linecap="square"></path>
+                <path d="M40,80.9080842 L82.7906977,2.81284607" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

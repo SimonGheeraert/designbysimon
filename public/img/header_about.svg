@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="117px" height="117px" viewBox="0 0 117 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 76 + Rectangle 15 + Oval 3 + Oval 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rectangle-76-+-Rectangle-15-+-Oval-3-+-Oval-4" sketch:type="MSLayerGroup" transform="translate(8.000000, 0.000000)">
+            <path d="M0,38.7132749 C0,35.9524094 1.85378728,32.4643034 4.14491205,30.9194307 L45.8550879,2.79485499 C48.1442597,1.2512992 51.8537873,1.24998228 54.1449121,2.79485499 L95.8550879,30.9194307 C98.1442597,32.4629865 100,35.9525294 100,38.7132749 L100,79.2867251 C100,82.0475906 98.1462127,85.5356966 95.8550879,87.0805693 L54.1449121,115.205145 C51.8557403,116.748701 48.1462127,116.750018 45.8550879,115.205145 L4.14491205,87.0805693 C1.85574034,85.5370135 0,82.0474706 0,79.2867251 L0,38.7132749 Z" id="Rectangle-76" fill="#0F172C" sketch:type="MSShapeGroup"></path>
+            <g id="Rectangle-15-+-Oval-3-+-Oval-4" transform="translate(14.864865, 40.689655)" stroke="#F5F5F5" sketch:type="MSShapeGroup">
+                <path d="M69.361383,19.228819 C69.9381465,18.7015187 70.2702703,18.3103448 70.2702703,18.3103448 C70.2702703,18.3103448 53.0221136,-5.59460138e-16 35.4900355,0 C17.9579574,5.59460138e-16 0,18.3103448 0,18.3103448 C0,18.3103448 8.61282985e-06,18.3103525 2.58204963e-05,18.3103679 C0.0246533976,18.3354736 17.9699918,36.6206897 35.4900355,36.6206897 C50.6451113,36.6206897 65.5880348,22.9388041 69.361383,19.228819 Z" id="Rectangle-15"></path>
+                <ellipse id="Oval-3" cx="35.8449358" cy="18.6765517" rx="12.4215124" ry="12.8172414"></ellipse>
+                <ellipse id="Oval-4" cx="35.4900355" cy="18.3103448" rx="3.54900355" ry="3.66206897"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

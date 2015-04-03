@@ -1,0 +1,9 @@
+#work{
+	margin-top: 50px;
+	@include container(100%);
+	margin-bottom: 20px;
+}
+
+#work_one, #work_two, #work_three, #work_four, #work_1, #work_2{
+	@include span(12 of 12);
+}

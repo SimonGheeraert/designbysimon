@@ -1,0 +1,24 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import "susy";
+@import "breakpoint";
+@import "fonts";
+
+$susy: (
+  columns: 12,
+  gutters: 0/4,
+);
+
+@import "header";
+@import "main";
+@import "footer";
+@import "skills";
+@import "work";
+@import "about";
+@import "thanks";
+@import "mobile"; 
+

@@ -1,0 +1,105 @@
+#about_picture{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	@include span(12 of 12);
+	text-align: center;
+	span{
+		@include span(12 of 12);
+		text-align: center;
+		img:hover{
+		opacity: 1;
+		filter: alpha(opacity=100);
+ 		-webkit-transition: opacity 1s linear;
+		}
+		img{
+		opacity: 0.5;
+		filter: alpha(opacity=30);
+ 		-webkit-transition: opacity 1s linear;
+		min-height:0%;
+		max-width: 100%;	
+		@include span(4 of 12);	
+		@include squish(4 of 12);	
+		}
+	}
+}
+
+div#about_simon{
+	margin-top: 100px;
+	@include span(10 of 12);
+	@include squish(1 of 12);
+	font-family: 'brandon_grotesquelight';
+	text-align: justify;
+	#first_paragraph, #second_paragraph, #third_paragraph, #fourth_paragraph, #fifth_paragraph{
+		#first_letter{
+			float: left;
+		}
+	#read_more{
+		text-transform: uppercase;
+		font-family: 'brandon_grotesqueregular';
+		text-decoration: underline;
+		color: #0F172C;
+		opacity: 0.5;
+		letter-spacing: 1px;
+		filter: alpha(opacity=50);
+ 		-webkit-transition: opacity 1s linear;
+ 		&:hover{
+			opacity: 1;
+			filter: alpha(opacity=100);
+ 			-webkit-transition: opacity 1s linear;
+
+ 		}
+
+	}
+	}
+	#third_paragraph, #fourth_paragraph, #fifth_paragraph{
+		display: none;
+		opacity: 0;
+	}
+	#fourth_paragraph{
+		a{
+			text-decoration: none;
+			color: #0F172C;
+			opacity: 0.5;
+			filter: alpha(opacity=50);
+ 			-webkit-transition: opacity 1s linear;
+		}
+		a:hover{
+			opacity: 1;
+			filter: alpha(opacity=100);
+ 			-webkit-transition: opacity 1s linear;
+		}
+	}
+}
+
+div#download_my_cv{
+	margin-top: 40px;
+	@include span(6 of 12);
+	@include squish(3 of 12);
+	text-align: center;
+	#first_link{
+	text-align: center;
+	@include span(4 of 10);
+	@include squish(3 of 10);
+		img{
+		min-height: 0%;
+		max-width: 100%;
+		}
+	}
+	#second_link{
+		margin-top: 20px;
+		text-decoration: none;
+		color: #0F172C;
+		font-family: 'brandon_grotesqueregular';
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		text-align: center;
+		@include span(10 of 10);
+		margin-bottom: 80px;
+		font-size: 14px;
+	}
+}
+
+
+
+
+
